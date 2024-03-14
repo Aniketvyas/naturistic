@@ -1,0 +1,2 @@
+2024-02-17 00:30:06,888 - ERROR - Unable to fetch auth token. Error: (insecure_transport) OAuth 2 MUST utilize https.
+2024-02-17 00:30:07,195 - ERROR - Client Error: 401 Client Error: Unauthorized for url: https://graph.microsoft.com/v1.0/me/mailFolders/Inbox/messages?%24top=10 | Error Message: Access token is empty. | Error Code: 

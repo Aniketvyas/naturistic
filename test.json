@@ -1,0 +1,68 @@
+[
+    "shipping_info": {
+        "full_name": "aniket Vyas",
+        "country_code": "+91",
+        "contact": "7976180709",
+        "email": "vyasaniket6@gmail.com",
+        "country": "india",
+        "address": "A1-1301, Megapolis Sunway, Hinjewadi Phase 3, ",
+        "state": "Maharashtra",
+        "city": "Pune",
+        "postal": "411057",
+        "overall_discount": "400",
+        "tax": "0",
+        "discounted_price": "1300",
+        "pay": "PAY"
+    },
+    "cart_data": [
+        {
+            "details": {
+                "id": 1,
+                "category": {
+                    "id": 1,
+                    "name": "marble handicrafts",
+                    "slug": "marble-handicrafts",
+                    "description": "nothing"
+                },
+                "name": "marble khalbatta",
+                "image": "/media/marble_khalbatta.webp",
+                "slug": "marble-khalbatta",
+                "price": 400,
+                "discounted_price": 300,
+                "description": "Introducing our Natural Marble Khalbatta, a timeless and functional addition to your kitchen. Crafted from high-quality natural marble, this traditional Indian mortar and pestle set brings authenticity and elegance to your culinary experience.\r\n\r\nThe Natural Marble Khalbatta features a sturdy and spacious mortar bowl, perfect for grinding and crushing herbs, spices, and other ingredients. The solid marble pestle provides excellent grip and control, allowing you to achieve the desired consistency and release the aromatic flavors of your ingredients.\r\n\r\nThe natural variations in the marble make each Khalbatta unique, with its own distinctive patterns and colors. This not only adds visual appeal but also showcases the beauty of nature in your kitchen.\r\n\r\nThe durable and heavy-duty construction ensures long-lasting performance, making it suitable for both everyday use and special occasions. Its smooth surface is easy to clean and maintain, making it a convenient and hygienic kitchen tool.\r\n\r\nEmbrace the art of traditional Indian cooking with our Natural Marble Khalbatta. It"s not just a functional tool but also a beautiful piece of craftsmanship that adds elegance and charm to your kitchen décor.", "quantity": 30, "added_on": "2023-07-30T18: 50: 41.975015Z", "eligible_for_cod": True, "specifications": "<p>&nbsp;</p>\r\n\r\n<ul>\r\n\t<li>Material: Natural Marble</li>\r\n\t<li>Dimensions: Height- 7cm, Leangth- 10cm, Width- 10 cm</li>\r\n\t<li>Weight: 1.35 kg</li>\r\n\t<li>Color: Natural marble variations</li>\r\n\t<li>Unique Variation: Each piece features natural color and pattern variations</li>\r\n\t<li>Functionality: Ideal for grinding and crushing herbs and spices</li>\r\n\t<li>Authentic Design: Traditional Indian mortar and pestle set</li>\r\n\t<li>Durability: Sturdy and heavy-duty construction for long-lasting use</li>\r\n\t<li>Easy to Clean: Smooth surface for effortless cleaning</li>\r\n\t<li>Kitchen D&eacute;cor: Adds elegance and charm to your kitchen</li>\r\n</ul>\r\n\r\n<p>&nbsp;</p>", "warranty_info": "<p>As a natural product, this Naturistic product does not come with a specific warranty. However, we stand behind the quality and craftsmanship of our products and ensure that they are carefully inspected before being shipped to our customers. We take pride in providing high-quality natural marble products that are built to last.</p>\r\n\r\n<p>Please note that natural variations in color, pattern, and texture are inherent to marble, making each piece unique. As a result, slight variations from the product images on our website may occur. These variations are part of the beauty and charm of natural marble.</p>\r\n\r\n<p>If you have any concerns or issues with your Natural Marble Soap Dispenser upon receiving it, please contact our customer support team, and we will do our best to assist you and address any questions or concerns you may have. Your satisfaction is our top priority, and we strive to ensure that you are delighted with your purchase from Naturistic.</p>", "shipping_info": "<p>&nbsp;</p>\r\n\r\n<ul>\r\n\t<li>Shipping: We provide domestic and international shipping options.</li>\r\n\t<li>Processing Time: Orders are typically processed within 5&nbsp;business days, excluding weekends and holidays.</li>\r\n\t<li>Shipping Methods: You can choose from various shipping methods during checkout to suit your preferences and requirements.</li>\r\n\t<li>Shipping Costs: Shipping costs are calculated based on the destination and the weight of the package. The exact shipping cost will be displayed at checkout before finalizing your purchase.</li>\r\n\t<li>Tracking: Once your order is shipped, we will provide you with a tracking number via email. You can use this to track the progress of your shipment online.</li>\r\n\t<li>International Shipping: For international orders, please be aware that additional customs duties, taxes, or fees may be imposed by your country&#39;s customs regulations. These charges are the responsibility of the recipient.</li>\r\n\t<li>Packaging: We take extra care to ensure that your Natural Marble Soap Dispenser is securely packaged to prevent any damage during transit.</li>\r\n\t<li>Delivery Time: The estimated delivery time varies depending on the shipping method and the destination. Please refer to the shipping carrier&#39;s website for more specific delivery estimates.</li>\r\n</ul>\r\n\r\n<p>We strive to provide a seamless shopping experience from purchase to delivery, ensuring that your Natural Marble Soap Dispenser reaches you in pristine condition. Should you have any questions or concerns about shipping, please don&#39;t hesitae to contact us.</p>"
+            },
+            "slug": "marble-khalbatta",
+            "quantity": 1
+        },
+        {
+            "details": {
+                "id": 5,
+                "category": {
+                    "id": 1,
+                    "name": "marble handicrafts",
+                    "slug": "marble-handicrafts",
+                    "description": "nothing"
+                },
+                "name": "Luxury Marble- Item Holder",
+                "image": "/media/pebblely_29.jpg",
+                "slug": "luxury-marble-item-holder",
+                "price": 2345,
+                "discounted_price": 2000,
+                "description": "lol",
+                "quantity": 23,
+                "added_on": "2023-10-12T18: 59: 55.276765Z",
+                "eligible_for_cod": True,
+                "specifications": "<p>2323</p>",
+                "warranty_info": "<p>2323</p>",
+                "shipping_info": "<p>323</p>"
+            },
+            "slug": "luxury-marble-item-holder",
+            "quantity": 1
+        }
+    ],
+    "total_payable": 2440,
+    "discount": 2300,
+    "overall": 2745,
+    "tax": 100,
+    "voucher": []
+    ]
